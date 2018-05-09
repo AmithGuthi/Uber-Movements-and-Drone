@@ -27,15 +27,19 @@ To enable users looking for housing near their workplace, to make an informed de
 - **Select maximum travel time to-work (in mins):** User’s limit of time he/she is acceptable with while going to work
 - **When do you leave from work (hour of day):** Impact of traffic on travel-times is considered based on user-preference while coming back from work
 - **Select maximum travel time back-from-work (in mins):** User might have a different preference around time spent travelling while coming back from work
- 
+
+![Screenshot for Dashboard 1](screenshots/dashboard_1.png "Find Housing Locations to Minimize Travel Time From/To Office")
+
 #### **Dashboard 02:** Find The Optimum Travel Time
 
 To help users identify the most-suitable time to make a journey. The time-savings can be substantial if it’s a recurring journey the user needs to make on a weekly basis, such as,
  
 - **Select Origin Location:** User can select the starting point of his/her journey from a pre-populated list of locations in San Francisco
 - **Select Destination Location:** Based on the finish-point, the weekly, hourly, and best-hours-in-a-day graphs are generated
+
+![Screenshot for Dashboard 2](screenshots/dashboard_2.png "Find The Optimum Travel Time")
  
-#### **Dashboard 03:** Selecting Location for a Site to Pilot a Drone-Delivery Project
+#### **Dashboard 03:** Selecting Location for a Site to Pilot a Drone-Delivery System
 
 To facilitate companies like Amazon determine, which location to host a pilot for drone-delivery system like Amazon-Prime.
  
@@ -44,3 +48,5 @@ Enter speed of drone (in mph): Speed to drone to, by default set at 50 mph based
 - **Select distance covered by drone (in miles):** Radius under which a drone can operate for deliveries
 - **Enter drone loading offset (in mins):** Additional time required to load a drone for delivery as compared to on-road delivery vehicles.
 - **Enter drone un-loading offset (in mins):** Additional time required to un-load and leave delivery at destination as compared to on-road delivery vehicles.
+
+![Screenshot for Dashboard 3](screenshots/dashboard_3.png "Selecting Location for a Site to Pilot a Drone-Delivery System")

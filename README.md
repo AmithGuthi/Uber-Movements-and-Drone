@@ -1,5 +1,6 @@
-# DSO 545: Uber Movement Plus Drone Delivery
-DSO 545 Project: Analyze Uber Movement's data to help users determine housing based on their work commute preferences, and enable companies like Amazon to determine ideal sites for piloting drone-delivery systems
+# DSO 545: Uber Movement + Drone Delivery Analysis
+
+Analyze Uber Movement's data to help users determine housing based on their work commute preferences, and enable companies like Amazon to determine ideal sites for piloting drone-delivery systems
 
 ## Instructions to Run the Projet
 
